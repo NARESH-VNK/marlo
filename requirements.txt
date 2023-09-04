@@ -1,0 +1,6 @@
+
+pandas==2.0.2
+psycopg2==2.9.6
+SQLAlchemy==2.0.16
+streamlit==1.23.1
+pip==22.0.3

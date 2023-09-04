@@ -1,0 +1,16 @@
+﻿name ,barcode ,brand ,description ,price ,available 
+Product 1 ,34567890 ,Brand 1 ,This is sample description ,200 ,YES
+Product 2 ,4567890 ,Brand 2 ,This is sample description ,100 ,NO
+Product 3 ,987654 ,Brand 3 ,This is sample description ,150 ,YES
+Product 4 ,12345678 ,Brand 4 ,This is sample description ,250 ,NO
+Product 5 ,23456765 ,Brand 5 ,This is sample description ,300 ,YES
+Product 6 ,23423452 ,Brand 6 ,This is sample description ,350 ,YES
+Product 7 ,987123 ,Brand 7 ,This is sample description ,180 ,YES
+Product 8 ,1256789 ,Brand 8 ,This is sample description ,120 ,NO
+Product 9 ,34562718 ,Brand 9 ,This is sample description ,110 ,YES
+Product 10 ,3.46E+08 ,Brand 10 ,This is sample description ,90 ,NO
+Product 11 ,667788 ,Brand 10 ,This is sample description ,90 ,NO
+Product 12 ,887799 ,Brand 10 ,This is sample description ,90 ,NO
+Product 13 ,24342 ,Brand 10 ,This is sample description ,90 ,NO
+Product 14 ,111 ,Brand 10 ,This is sample description ,90 ,NO
+Product 15 ,1015 ,Brand 10 ,This is sample description ,90 ,NO
